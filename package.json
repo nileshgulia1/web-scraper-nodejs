@@ -3,7 +3,7 @@
   "version"      : "0.0.1",
   "description"  : "Scrape le web.",
   "main"         : "server.js",
-  "author"       : "Scotch",
+  "author"       : "Nilesh",
   "repository"   : {
     "type" : "git",
     "url"  : "https://github.com/nileshgulia1/node-web-scraper"
