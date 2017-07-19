@@ -6,7 +6,7 @@
   "author"       : "Scotch",
   "repository"   : {
     "type" : "git",
-    "url"  : "https://github.com/scotch-io/node-web-scraper"
+    "url"  : "https://github.com/nileshgulia1/node-web-scraper"
   },
   "dependencies" : {
     "express"    : "latest",
