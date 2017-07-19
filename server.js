@@ -41,5 +41,5 @@ app.get('/scrape', function(req, res){
 })
 
 app.listen('8081')
-console.log('see the port dabdam:8081');
+console.log('see the port :8081');
 exports = module.exports = app;
