@@ -5,7 +5,7 @@ var cheerio = require('cheerio');
 var app     = express();
 
 app.get('/scrape', function(req, res){
-  // Let's scrape Anchorman 2
+  // Let's scrape Jagga Jasoos
   url = 'http://www.imdb.com/title/tt4129428/';
 
   request(url, function(error, response, html){
@@ -41,5 +41,5 @@ app.get('/scrape', function(req, res){
 })
 
 app.listen('8081')
-console.log('see the port :8081');
+console.log('see the port :8081/scrape');
 exports = module.exports = app;
