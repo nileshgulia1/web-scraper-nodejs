@@ -26,6 +26,7 @@ Now start the server:<br>
 `node server`<br>
 open up the browser and type `localhost:8081/scrape`<br>
 then you will find the movie details from IMDB in the `output.json` folder in your project directory.<br>
+You can change movie url as per your choice [here]( https://github.com/nileshgulia1/web-scraper-nodejs/blob/80b1d156e3a8e3d9f93c6fdf72030d33355cbddf/server.js#L9).
 
 ## Contributing
 
