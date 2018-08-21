@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/nileshgulia1/React-bookstore.svg?branch=master)](https://travis-ci.org/nileshgulia1/React-bookstore) 
 ![npm](https://img.shields.io/npm/v/npm.svg) ![node](https://img.shields.io/node/v/passport.svg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/nileshgulia)
+[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/nileshg89)
 
 ![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjStOTwx4_bAhWBYo8KHeGVCUkQjRx6BAgBEAU&url=https%3A%2F%2Fthebutlercollegian.com%2F%3Fp%3D32776&psig=AOvVaw340m-2fKX8-FzsmwG5sgEz&ust=1526743214733200)
 
